@@ -1,0 +1,8 @@
+prefix=/home/ubuntupc/lalala_ws/devel
+
+Name: study_pkg
+Description: Description of study_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy roscpp message_runtime

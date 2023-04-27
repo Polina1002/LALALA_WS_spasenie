@@ -1,0 +1,2 @@
+study_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ubuntupc/lalala_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntupc/lalala_ws/install -G Unix Makefiles
